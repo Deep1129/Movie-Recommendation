@@ -1,5 +1,7 @@
 # Movie-Recommendation
 
+![Image1](https://github.com/Deep1129/Movie-Recommendation/blob/ab2db9ab44a1f64df1e0dff1dcf01d09ce98b2ac/netflix.jpeg)
+
 ## Problem Statement
 Given the user-movie rating data, we have to recommend new movies to the users.
 
@@ -29,7 +31,7 @@ NOTE: The dataset given is too large (480189 users and 17770 movies), processing
 
 ## Some EDA results from the notebook
 
-
+![image2](https://github.com/Deep1129/Movie-Recommendation/blob/ab2db9ab44a1f64df1e0dff1dcf01d09ce98b2ac/rating_distribution.png)  ![image3](https://github.com/Deep1129/Movie-Recommendation/blob/ab2db9ab44a1f64df1e0dff1dcf01d09ce98b2ac/ratings_per_movie.png)  
 
 ## ML models used
 
